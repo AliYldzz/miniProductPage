@@ -1,0 +1,2 @@
+# miniProductPage
+Mini Product Page
